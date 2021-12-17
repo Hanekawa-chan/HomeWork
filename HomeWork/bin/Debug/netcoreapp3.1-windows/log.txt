@@ -1,0 +1,32 @@
+***************************************
+08:15:24
+InputBoxContent: 1
+ResultBoxContent: 1440 минут
+***************************************
+08:15:24
+InputBoxContent: 12
+ResultBoxContent: 17280 минут
+***************************************
+08:15:24
+InputBoxContent: 120
+ResultBoxContent: 172800 минут
+***************************************
+08:52:28
+InputBoxContent: 1
+ResultBoxContent: 0 дней
+***************************************
+08:52:28
+InputBoxContent: 12
+ResultBoxContent: 0 дней
+***************************************
+08:52:28
+InputBoxContent: 123
+ResultBoxContent: 0 дней
+***************************************
+08:52:29
+InputBoxContent: 1231
+ResultBoxContent: 0 дней
+***************************************
+08:52:29
+InputBoxContent: 12314
+ResultBoxContent: 8 дней
